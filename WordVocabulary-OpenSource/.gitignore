@@ -1,0 +1,13 @@
+bin/
+*.dat
+*.user
+*.tmp
+*.bak
+vocabulary.json
+
+online-enabled.txt
+*.log
+*.xlsx
+*.csv
+.env*
+

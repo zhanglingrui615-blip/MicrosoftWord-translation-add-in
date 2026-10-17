@@ -1,0 +1,12 @@
+{
+  "entries": 19545,
+  "sha256": "465a803beab083f6fa37982919783de070b073a2b89cba56381e0bb8dc7917ce",
+  "license": "MIT",
+  "upstream": "https://github.com/skywind3000/ECDICT",
+  "derivedSources": [
+    "https://github.com/chen-dongchai/WordCraft--/blob/main/WordCraft/Data/wordbank.db",
+    "https://github.com/ChihoYiu/CetVocab/tree/main/app/src/main/assets/wordpacks"
+  ],
+  "databaseGitBlob": "460ebaa43c0fae26741be719572ad05694067253",
+  "excluded": "All examples, example translations, audio, and app code"
+}
